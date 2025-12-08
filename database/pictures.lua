@@ -1699,5 +1699,37 @@ return {
     ["z190wb"] = {
         label = "z190wb",
         image = "https://raw.githubusercontent.com/MIST145/database_cars/main/Lore_2026/z190wb.png"
+    },
+    ["ffrs_new"] = {
+        label = "ffrs_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/%5B2026%5D/ffrs.png"
+    },
+    ["rs6_new"] = {
+        label = "rs6_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/%5B2026%5D/rs6.png"
+    },
+    ["bmws_new"] = {
+        label = "bmws_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/%5BRANDOM%5D/bmws.png"
+    },
+    ["ffrs_new_1"] = {
+        label = "ffrs_new_1",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/%5BRANDOM%5D/ffrs.png"
+    },
+    ["r6_new"] = {
+        label = "r6_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/%5BRANDOM%5D/r6.png"
+    },
+    ["rs6_new_1"] = {
+        label = "rs6_new_1",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/%5BRANDOM%5D/rs6.png"
+    },
+    ["bmws_new_1"] = {
+        label = "bmws_new_1",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/%5BRANDOM%5D/motos/bmws.png"
+    },
+    ["r6_new_1"] = {
+        label = "r6_new_1",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/%5BRANDOM%5D/motos/r6.png"
     }
 }

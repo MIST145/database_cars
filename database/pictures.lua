@@ -2527,5 +2527,37 @@ return {
     ["yzfsm"] = {
         label = "yzfsm",
         image = "https://raw.githubusercontent.com/MIST145/database_cars/main/%5BRANDOM%5D/%5B13.12.205%5D/yzfsm.png"
+    },
+    ["alternator_no_bg"] = {
+        label = "alternator_no_bg",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/images/alternator_no_bg.png"
+    },
+    ["awd_no_bg"] = {
+        label = "awd_no_bg",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/images/awd_no_bg.png"
+    },
+    ["drive_shaft_no_bg"] = {
+        label = "drive_shaft_no_bg",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/images/drive_shaft_no_bg.png"
+    },
+    ["enginehoist_no_bg"] = {
+        label = "enginehoist_no_bg",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/images/enginehoist_no_bg.png"
+    },
+    ["fwd_no_bg"] = {
+        label = "fwd_no_bg",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/images/fwd_no_bg.png"
+    },
+    ["oil_filter_no_bg"] = {
+        label = "oil_filter_no_bg",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/images/oil_filter_no_bg.png"
+    },
+    ["part_window_no_bg"] = {
+        label = "part_window_no_bg",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/images/part_window_no_bg.png"
+    },
+    ["rwd_no_bg"] = {
+        label = "rwd_no_bg",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/images/rwd_no_bg.png"
     }
 }

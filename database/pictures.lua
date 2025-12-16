@@ -3747,5 +3747,253 @@ return {
     ["home"] = {
         label = "home",
         image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/home.jpg"
+    },
+    ["albany_new"] = {
+        label = "albany_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/albany.jpg"
+    },
+    ["annis_new"] = {
+        label = "annis_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/annis.jpg"
+    },
+    ["benefactor_new"] = {
+        label = "benefactor_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/benefactor.jpg"
+    },
+    ["bf_new"] = {
+        label = "bf_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/bf.jpg"
+    },
+    ["bravado_new"] = {
+        label = "bravado_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/bravado.jpg"
+    },
+    ["cheval_new"] = {
+        label = "cheval_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/cheval.jpg"
+    },
+    ["coil_new"] = {
+        label = "coil_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/coil.jpg"
+    },
+    ["declasse_new"] = {
+        label = "declasse_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/declasse.jpg"
+    },
+    ["dewbauch_new"] = {
+        label = "dewbauch_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/dewbauch.jpg"
+    },
+    ["dewbauchee_new"] = {
+        label = "dewbauchee_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/dewbauchee.jpg"
+    },
+    ["dinka_new"] = {
+        label = "dinka_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/dinka.jpg"
+    },
+    ["emperor_new"] = {
+        label = "emperor_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/emperor.jpg"
+    },
+    ["enus_new"] = {
+        label = "enus_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/enus.jpg"
+    },
+    ["fallback_new"] = {
+        label = "fallback_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/fallback.jpg"
+    },
+    ["fathom_new"] = {
+        label = "fathom_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/fathom.jpg"
+    },
+    ["gallivanter_new"] = {
+        label = "gallivanter_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/gallivanter.jpg"
+    },
+    ["grotti_new"] = {
+        label = "grotti_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/grotti.jpg"
+    },
+    ["hijak_new"] = {
+        label = "hijak_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/hijak.jpg"
+    },
+    ["home-1_new"] = {
+        label = "home-1_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/home-1.jpg"
+    },
+    ["home-2_new"] = {
+        label = "home-2_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/home-2.jpg"
+    },
+    ["home-3_new"] = {
+        label = "home-3_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/home-3.jpg"
+    },
+    ["home-4_new"] = {
+        label = "home-4_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/home-4.jpg"
+    },
+    ["home-5_new"] = {
+        label = "home-5_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/home-5.jpg"
+    },
+    ["home-banner-1_new"] = {
+        label = "home-banner-1_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/home-banner-1.jpg"
+    },
+    ["home_new"] = {
+        label = "home_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/home.jpg"
+    },
+    ["i4_1_new"] = {
+        label = "i4_1_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/i4_1.png"
+    },
+    ["i4_2_new"] = {
+        label = "i4_2_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/i4_2.png"
+    },
+    ["i4_3_new"] = {
+        label = "i4_3_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/i4_3.png"
+    },
+    ["imponte_new"] = {
+        label = "imponte_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/imponte.jpg"
+    },
+    ["invetero_new"] = {
+        label = "invetero_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/invetero.jpg"
+    },
+    ["karin_new"] = {
+        label = "karin_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/karin.jpg"
+    },
+    ["kq_tow_rope_new"] = {
+        label = "kq_tow_rope_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/kq_tow_rope.png"
+    },
+    ["kq_winch_new"] = {
+        label = "kq_winch_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/kq_winch.png"
+    },
+    ["lampadati_new"] = {
+        label = "lampadati_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/lampadati.jpg"
+    },
+    ["lamptadati_new"] = {
+        label = "lamptadati_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/lamptadati.jpg"
+    },
+    ["maibatsu_new"] = {
+        label = "maibatsu_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/maibatsu.jpg"
+    },
+    ["maxwell_new"] = {
+        label = "maxwell_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/maxwell.jpg"
+    },
+    ["missing_new"] = {
+        label = "missing_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/missing.png"
+    },
+    ["nagasaki_new"] = {
+        label = "nagasaki_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/nagasaki.jpg"
+    },
+    ["obey_new"] = {
+        label = "obey_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/obey.jpg"
+    },
+    ["ocelot_new"] = {
+        label = "ocelot_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/ocelot.jpg"
+    },
+    ["overflod_new"] = {
+        label = "overflod_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/overflod.jpg"
+    },
+    ["pegassi_new"] = {
+        label = "pegassi_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/pegassi.jpg"
+    },
+    ["pfister_new"] = {
+        label = "pfister_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/pfister.jpg"
+    },
+    ["progen_new"] = {
+        label = "progen_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/progen.jpg"
+    },
+    ["schyster_new"] = {
+        label = "schyster_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/schyster.jpg"
+    },
+    ["truffade_new"] = {
+        label = "truffade_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/truffade.jpg"
+    },
+    ["ubermacht_new"] = {
+        label = "ubermacht_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/ubermacht.jpg"
+    },
+    ["v12_1_new"] = {
+        label = "v12_1_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v12_1.png"
+    },
+    ["v12_2_new"] = {
+        label = "v12_2_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v12_2.png"
+    },
+    ["v6_1_new"] = {
+        label = "v6_1_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v6_1.png"
+    },
+    ["v6_2_new"] = {
+        label = "v6_2_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v6_2.png"
+    },
+    ["v6_3_new"] = {
+        label = "v6_3_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v6_3.png"
+    },
+    ["v6_4_new"] = {
+        label = "v6_4_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v6_4.png"
+    },
+    ["v6_5_new"] = {
+        label = "v6_5_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v6_5.png"
+    },
+    ["v8_1_new"] = {
+        label = "v8_1_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v8_1.png"
+    },
+    ["v8_2_new"] = {
+        label = "v8_2_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v8_2.png"
+    },
+    ["v8_3_new"] = {
+        label = "v8_3_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/v8_3.png"
+    },
+    ["vapid_new"] = {
+        label = "vapid_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/vapid.jpg"
+    },
+    ["vulcar_new"] = {
+        label = "vulcar_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/vulcar.jpg"
+    },
+    ["weeny_new"] = {
+        label = "weeny_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/weeny.jpg"
+    },
+    ["willard_new"] = {
+        label = "willard_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/willard.jpg"
     }
 }

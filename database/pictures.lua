@@ -4851,5 +4851,9 @@ return {
     ["c63b"] = {
         label = "c63b",
         image = "https://raw.githubusercontent.com/MIST145/database_cars/main/MERCEDES/c63b.png"
+    },
+    ["Vehicle_color_ids"] = {
+        label = "Vehicle_color_ids",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/Vehicle_color_ids.jpg"
     }
 }

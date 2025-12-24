@@ -4891,5 +4891,17 @@ return {
     ["i8"] = {
         label = "i8",
         image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/i8.png"
+    },
+    ["m3ptouring"] = {
+        label = "m3ptouring",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/m3ptouring.png"
+    },
+    ["m4cs"] = {
+        label = "m4cs",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/m4cs.png"
+    },
+    ["m4g82p"] = {
+        label = "m4g82p",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/m4g82p.png"
     }
 }

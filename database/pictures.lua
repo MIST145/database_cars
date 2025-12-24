@@ -4855,5 +4855,9 @@ return {
     ["Vehicle_color_ids"] = {
         label = "Vehicle_color_ids",
         image = "https://raw.githubusercontent.com/MIST145/database_cars/main/Vehicle_color_ids.jpg"
+    },
+    ["17m4f82"] = {
+        label = "17m4f82",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/17m4f82.png"
     }
 }

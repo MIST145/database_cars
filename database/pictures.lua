@@ -4859,5 +4859,37 @@ return {
     ["17m4f82"] = {
         label = "17m4f82",
         image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/17m4f82.png"
+    },
+    ["bmwm5touring"] = {
+        label = "bmwm5touring",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/bmwm5touring.png"
+    },
+    ["e46sedanwide"] = {
+        label = "e46sedanwide",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/e46sedanwide.png"
+    },
+    ["f82duke"] = {
+        label = "f82duke",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/f82duke.png"
+    },
+    ["f82hs"] = {
+        label = "f82hs",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/f82hs.png"
+    },
+    ["f82lw"] = {
+        label = "f82lw",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/f82lw.png"
+    },
+    ["f82st"] = {
+        label = "f82st",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/f82st.png"
+    },
+    ["f824slw"] = {
+        label = "f824slw",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/f824slw.png"
+    },
+    ["i8"] = {
+        label = "i8",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/BMW/no_background/i8.png"
     }
 }

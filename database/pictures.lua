@@ -3995,5 +3995,65 @@ return {
     ["willard_new"] = {
         label = "willard_new",
         image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2025/12/16/willard.jpg"
+    },
+    ["abflugm2_new"] = {
+        label = "abflugm2_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/abflugm2.png"
+    },
+    ["adrom4_new"] = {
+        label = "adrom4_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/adrom4.png"
+    },
+    ["drem3adro_new"] = {
+        label = "drem3adro_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/drem3adro.png"
+    },
+    ["e46m3_new"] = {
+        label = "e46m3_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/e46m3.png"
+    },
+    ["fiestac_new"] = {
+        label = "fiestac_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/fiestac.png"
+    },
+    ["hycgt500_new"] = {
+        label = "hycgt500_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/hycgt500.png"
+    },
+    ["m2keyvany_new"] = {
+        label = "m2keyvany_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/m2keyvany.png"
+    },
+    ["m3hycade_new"] = {
+        label = "m3hycade_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/m3hycade.png"
+    },
+    ["m3touring_new"] = {
+        label = "m3touring_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/m3touring.png"
+    },
+    ["m4hs_new"] = {
+        label = "m4hs_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/m4hs.png"
+    },
+    ["m4shark_new"] = {
+        label = "m4shark_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/m4shark.png"
+    },
+    ["m5abflug_new"] = {
+        label = "m5abflug_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/m5abflug.png"
+    },
+    ["r8novitec_new"] = {
+        label = "r8novitec_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/r8novitec.png"
+    },
+    ["rsq3mnsry_new"] = {
+        label = "rsq3mnsry_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/rsq3mnsry.png"
+    },
+    ["x6m47_new"] = {
+        label = "x6m47_new",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/LORE/x6m47.png"
     }
 }

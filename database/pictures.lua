@@ -7663,5 +7663,221 @@ return {
     ["vamoswb"] = {
         label = "vamoswb",
         image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/vamoswb.png"
+    },
+    ["agsa1000pm"] = {
+        label = "agsa1000pm",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsa1000pm.png"
+    },
+    ["agsbem2pm"] = {
+        label = "agsbem2pm",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsbem2pm.png"
+    },
+    ["agsbem6hp"] = {
+        label = "agsbem6hp",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsbem6hp.png"
+    },
+    ["agsdeserthp"] = {
+        label = "agsdeserthp",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsdeserthp.png"
+    },
+    ["agsguerrapm"] = {
+        label = "agsguerrapm",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsguerrapm.png"
+    },
+    ["agsgugiapm"] = {
+        label = "agsgugiapm",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsgugiapm.png"
+    },
+    ["agsprinthp"] = {
+        label = "agsprinthp",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsprinthp.png"
+    },
+    ["agsquaivhp"] = {
+        label = "agsquaivhp",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsquaivhp.png"
+    },
+    ["agsspacepm"] = {
+        label = "agsspacepm",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsspacepm.png"
+    },
+    ["agstacuinmec"] = {
+        label = "agstacuinmec",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agstacuinmec.png"
+    },
+    ["agsvorollapm"] = {
+        label = "agsvorollapm",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agsvorollapm.png"
+    },
+    ["agswagpm"] = {
+        label = "agswagpm",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agswagpm.png"
+    },
+    ["agswxtpm"] = {
+        label = "agswxtpm",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/agswxtpm.png"
+    },
+    ["elegy3"] = {
+        label = "elegy3",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/elegy3.png"
+    },
+    ["evajv"] = {
+        label = "evajv",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/evajv.png"
+    },
+    ["f140r"] = {
+        label = "f140r",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/f140r.png"
+    },
+    ["f340r"] = {
+        label = "f340r",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/f340r.png"
+    },
+    ["f540r"] = {
+        label = "f540r",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/f540r.png"
+    },
+    ["gresleyhellfire"] = {
+        label = "gresleyhellfire",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/gresleyhellfire.png"
+    },
+    ["jdom9"] = {
+        label = "jdom9",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/jdom9.png"
+    },
+    ["jgaunt4"] = {
+        label = "jgaunt4",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/jgaunt4.png"
+    },
+    ["kart"] = {
+        label = "kart",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/kart.png"
+    },
+    ["mvolt"] = {
+        label = "mvolt",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/mvolt.png"
+    },
+    ["oraclegts"] = {
+        label = "oraclegts",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/oraclegts.png"
+    },
+    ["pbbjv"] = {
+        label = "pbbjv",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/pbbjv.png"
+    },
+    ["pvajv"] = {
+        label = "pvajv",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/pvajv.png"
+    },
+    ["pvdtrt"] = {
+        label = "pvdtrt",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/pvdtrt.png"
+    },
+    ["pvsjv"] = {
+        label = "pvsjv",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/pvsjv.png"
+    },
+    ["pvtjv"] = {
+        label = "pvtjv",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/pvtjv.png"
+    },
+    ["reblagtr"] = {
+        label = "reblagtr",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/reblagtr.png"
+    },
+    ["renaultm"] = {
+        label = "renaultm",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/renaultm.png"
+    },
+    ["rmod_baller8"] = {
+        label = "rmod_baller8",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_baller8.png"
+    },
+    ["rmod_buffalo4"] = {
+        label = "rmod_buffalo4",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_buffalo4.png"
+    },
+    ["rmod_canis"] = {
+        label = "rmod_canis",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_canis.png"
+    },
+    ["rmod_cavalcadexl"] = {
+        label = "rmod_cavalcadexl",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_cavalcadexl.png"
+    },
+    ["rmod_cavalcadexl2"] = {
+        label = "rmod_cavalcadexl2",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_cavalcadexl2.png"
+    },
+    ["rmod_comets2"] = {
+        label = "rmod_comets2",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_comets2.png"
+    },
+    ["rmod_comets2p"] = {
+        label = "rmod_comets2p",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_comets2p.png"
+    },
+    ["rmod_deity"] = {
+        label = "rmod_deity",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_deity.png"
+    },
+    ["rmod_gauntlet4"] = {
+        label = "rmod_gauntlet4",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_gauntlet4.png"
+    },
+    ["rmod_hammer"] = {
+        label = "rmod_hammer",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_hammer.png"
+    },
+    ["rmod_iwagen"] = {
+        label = "rmod_iwagen",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_iwagen.png"
+    },
+    ["rmod_monster_g"] = {
+        label = "rmod_monster_g",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_monster_g.png"
+    },
+    ["rmod_niobe"] = {
+        label = "rmod_niobe",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_niobe.png"
+    },
+    ["rmod_pegassi"] = {
+        label = "rmod_pegassi",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_pegassi.png"
+    },
+    ["rmod_tempesta"] = {
+        label = "rmod_tempesta",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_tempesta.png"
+    },
+    ["rmod_tempestap"] = {
+        label = "rmod_tempestap",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_tempestap.png"
+    },
+    ["rmod_tenf"] = {
+        label = "rmod_tenf",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmod_tenf.png"
+    },
+    ["rmodambulance"] = {
+        label = "rmodambulance",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmodambulance.png"
+    },
+    ["rmodfordgt"] = {
+        label = "rmodfordgt",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmodfordgt.png"
+    },
+    ["rmodtransit"] = {
+        label = "rmodtransit",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/rmodtransit.png"
+    },
+    ["sebbjv"] = {
+        label = "sebbjv",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/sebbjv.png"
+    },
+    ["spnsbjv"] = {
+        label = "spnsbjv",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/spnsbjv.png"
+    },
+    ["stxh"] = {
+        label = "stxh",
+        image = "https://raw.githubusercontent.com/MIST145/database_cars/main/2026/Lore/Feb_2026/stxh.png"
     }
 }
